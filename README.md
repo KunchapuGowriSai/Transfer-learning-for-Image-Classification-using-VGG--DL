@@ -34,7 +34,7 @@ To install the necessary libraries, run:
 ```bash
 pip install tensorflow numpy opencv-python scikit-learn
 
-
+```
 ## How to Run
 
 Open the DLexp5.ipynb file in Jupyter Notebook or Google Colab.
